@@ -1,0 +1,80 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492235869081@s.whatsapp.net',
+    fromMe: false,
+    id: '591CD481AEEDEFDD2C8157AA8779D884',
+    participant: undefined
+  },
+  messageTimestamp: 1720622766,
+  pushName: 'Guillermo Navarro',
+  broadcast: false,
+  message: Message {
+    conversation: 'Che sinó que creen un grupo dedicado al bot',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Che sinó que creen un grupo dedicado al bot',
+  from: '5492235869081'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492235869081@s.whatsapp.net',
+    fromMe: false,
+    id: '720B487A94E6C9284DD5DF9B41725F52',
+    participant: undefined
+  },
+  messageTimestamp: 1720622773,
+  pushName: 'Guillermo Navarro',
+  broadcast: false,
+  message: Message {
+    conversation: 'Todo el tiempo los negocios migran datos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Todo el tiempo los negocios migran datos',
+  from: '5492235869081'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492235869081@s.whatsapp.net',
+    fromMe: false,
+    id: '264666570C962DEAAC4A90E33318141B',
+    participant: undefined
+  },
+  messageTimestamp: 1720622782,
+  pushName: 'Guillermo Navarro',
+  broadcast: false,
+  message: Message {
+    conversation: 'Decile que no sea tan flojito',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Decile que no sea tan flojito',
+  from: '5492235869081'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492235869081@s.whatsapp.net',
+    fromMe: false,
+    id: 'C324FF8AD4ED7EA971FF8A8E63C659AC',
+    participant: undefined
+  },
+  messageTimestamp: 1720622783,
+  pushName: 'Guillermo Navarro',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jaja',
+  from: '5492235869081'
+}
