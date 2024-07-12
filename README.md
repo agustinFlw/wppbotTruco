@@ -1,4 +1,6 @@
 ### CHATBOT Whatsapp (Baileys Provider)
+<h1>Vista previa:</h1>
+![image](https://github.com/user-attachments/assets/6cb130b0-7a66-4a14-99d4-7a82f3556ebc)
 
 <p align="center">
   <img width="300" src="https://i.imgur.com/Oauef6t.png">
